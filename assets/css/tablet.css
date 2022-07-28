@@ -1,0 +1,29 @@
+@media (min-width: 768px) {
+    body {
+      font-size: 16px;
+    }
+  
+    .mobile-only {
+      display: none !important;
+    }
+      
+    header .menu {
+      position: static;
+      width: auto;
+      background: none;
+      border: none;
+    }
+  
+    header .header-right a {
+      display: inline-block;
+    }
+    
+    header .header-right .hamburger {
+        margin-right: 30px;
+        display: none;
+    }
+
+    .base {
+        width: 360px;
+    }
+}

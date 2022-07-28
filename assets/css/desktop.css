@@ -1,0 +1,52 @@
+/* desktop screen view */
+
+@media (min-width: 992px) {
+    .container {
+      width: 970px;
+    }
+  
+    #top_wrapper {
+      min-height: 700px;
+      padding-top: 180px;
+      background: url(../img/blob.png) 50vw center no-repeat, linear-gradient(135deg, #5193f5 0%, #2ebf91 100%);
+    }
+  
+    #top_wrapper .intro {
+      max-width: 450px;
+      margin: 0 0 0 30px;
+      text-align: left;
+    }
+  
+    #top_wrapper .people {
+      display: inline-block;
+    }
+  
+    #portfolio .image,
+    #portfolio .caption {
+      float: left;
+      width: 50%;
+    }
+  
+    
+  }
+  
+  /* large desktop screen view */
+  
+  @media (min-width: 1200px) {
+    .container {
+      width: 1170px;
+    }
+  
+    #top_wrapper .intro {
+      margin: 0 0 0 50px;
+    }
+  
+    #top_wrapper .people {
+      margin-right: 80px;
+    }
+  
+    #portfolio h3 {
+      margin-top: 30px;
+      font-size: 2.5em;
+    }
+  }

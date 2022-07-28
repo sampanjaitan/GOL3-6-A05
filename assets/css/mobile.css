@@ -1,0 +1,27 @@
+@media (min-width: 320px) {
+    header .header-right{
+        float: right;
+        text-align: right;
+    }
+    header .header-right .menu-toggle{
+        opacity: 1;
+    }
+    header .header-right .show-menu {
+        top: 70px;
+        left: 0;
+    }
+
+    header .header-right .hide-menu {
+        top: -218px;
+        left: 0;
+    }
+    
+    
+    header .hamburger{
+        font-size: 35px;
+        vertical-align: middle;
+        margin: 0px;
+        margin-right: 12px;
+    }
+    
+}
