@@ -4,11 +4,11 @@
 
 Tugas kelompok GOL3-6-A05 untuk Digital Talent Scholarship Tahun 2022
 - Ricky Bayu Putra
-- ...
-- ...
+- Saddam Husein
+- Roso Sasongko
 - Samuel Frans Pangihutan Panjaitan
 ## Kontributor
-![Kontributor](assets/img/ricky.png)
-![](assets/img/saddam.png)
+![Ricky Bayu Putra](assets/img/ricky.png)
+![Saddam](assets/img/saddam.png)
 ![Roso Sasongko](assets/img/roso.png)
 ![Samuel Frans Pangihutan Panjaitan](assets/img/samm.png)

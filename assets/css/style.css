@@ -87,6 +87,7 @@ img {
     opacity: .75;
     border-radius: 50%;
     transition: .25s all;
+    z-index:9;
 }
   
 #to-top:hover {
@@ -290,6 +291,7 @@ header .header-right a:hover {
     background: #fff;
     border-radius: 15px;
     box-shadow: 0 2px 2px 2px rgba(0, 0, 0, .05);
+    width: 100%;
 }
   
 #profile_wrapper img {

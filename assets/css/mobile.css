@@ -24,6 +24,10 @@
         margin-right: 12px;
     }
 
+    .dts-header {
+        font-size: 1.25em;
+    }
+
     .dts-header .crc {
         transform: scale(.5);
     }
@@ -46,4 +50,11 @@
         right: -42%;
     }
     
+    #profile_wrapper .base{
+        width: 350px;
+    }
+
+    #profile_wrapper .card {
+        width: 100%;
+    }
 }
