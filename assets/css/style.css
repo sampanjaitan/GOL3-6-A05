@@ -246,17 +246,17 @@ header .header-right a:hover {
 }
   
 #lesson_wrapper .html {
-    background: #f06529;
+    background: linear-gradient(135deg, #f06529 30%, #5193f5 100%);
     color: #fff;
 }
   
 #lesson_wrapper .css {
-    background: #2965f1;
+    background: linear-gradient(135deg, #2965f1 30%, #2ebf91 100%);
     color: #fff;
 }
   
 #lesson_wrapper .golang {
-    background: #6AD7E5;
+    background: linear-gradient(135deg, #6AD7E5 30%, #5193f5 100%);
     color: #fff;
 }
   
