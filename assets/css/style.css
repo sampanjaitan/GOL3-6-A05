@@ -278,7 +278,6 @@ header .header-right a:hover {
 /* akhir bagian lesson_wrapper */
 
 /* awal bagian profil */
-
 #profile_wrapper {
     margin-bottom: 50px;
     text-align: center;
@@ -297,7 +296,6 @@ header .header-right a:hover {
 #profile_wrapper img {
     width: 120px;
     max-width: 150px;
-    border-radius: 50%;
     filter: grayscale(100%);
     transition: .15s all;
 }
@@ -307,21 +305,15 @@ header .header-right a:hover {
     animation: shake2 5s infinite;
 }
   
-#profile_wrapper h3 {
-    margin: 15px 0 5px;
-    font-size: 1.2em;
-}
-  
-#profile_wrapper .about {
+#profile_wrapper h5 {
     margin: 0;
-    color: #888;
-    line-height: 1em;
 }
-  
-#profile_wrapper .card .testimonial {
-    font-style: italic;
+
+#profile_wrapper .job {
+    margin: 1px 0;
+    font-size: 0.8em;
 }
-  
+
 #profile_wrapper .button {
     display: inline-block;
     margin: 15px 0 15px;
@@ -354,16 +346,14 @@ header .header-right a:hover {
     border-left: solid 1px #ccc;
 }
   
-#profile_wrapper .medsos a {
-    color: #444;
-}
-  
-#profile_wrapper .medsos a:hover {
-    color: #2196f3;
-}
-
 #profile_wrapper .base {
     width: 250px;
+}
+
+#profile_wrapper .social_media a {
+    color: black;
+    font-size: 1.5em;
+    margin: 0 2px;
 }
 /* akhir bagian profil */
 
