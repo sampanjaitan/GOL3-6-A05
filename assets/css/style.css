@@ -293,7 +293,7 @@ header .header-right a:hover {
 }
   
 #profile_wrapper img {
-    width: 80%;
+    width: 120px;
     max-width: 150px;
     border-radius: 50%;
     filter: grayscale(100%);
