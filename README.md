@@ -4,8 +4,8 @@
 
 Tugas kelompok GOL3-6-A05 untuk Digital Talent Scholarship Tahun 2022
 - Ricky Bayu Putra
-- ...
-- ...
+- Saddam Husein
+- Roso Sasongko
 - Samuel Frans Pangihutan Panjaitan
 ## Kontributor
 ![Kontributor](assets/img/ricky.png)
