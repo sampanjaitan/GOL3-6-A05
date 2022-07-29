@@ -32,9 +32,9 @@
       padding-top: 180px;
     }
 
-    /* .dts-header {
-      background: #EDF1F2 url(../img/blob.png) 50vw center no-repeat;
-    } */
+    .dts-header {
+      background: url(../img/blob.png) 50vw center no-repeat, linear-gradient(135deg, #5193f5 0%, #2ebf91 100%);
+    }
 
     .dts-header .intro {
       max-width: 450px;
