@@ -1,17 +1,17 @@
 .dts-header {
     position: relative;
-    /* background-color: #EDF1F2; */
+    background-color: #EDF1F2;
     overflow: hidden;
 
     line-height: 100vh;
     font-size: 1.25em;
-    /* color: #3D474D; */
-    color: #fff;
+    color: #3D474D;
+    /* color: #fff; */
     text-align: center;
 
     padding-top: 20vh;
     height: calc(100vh + 70px);
-    background: linear-gradient(135deg, #5193f5 0%, #2ebf91 100%);
+    /* background: linear-gradient(135deg, #5193f5 0%, #2ebf91 100%); */
 }
 
 .flex-column {
@@ -27,10 +27,8 @@
 .dts-header .crc-orange {
     width: 300px;
     height: 300px; 
-    /* -webkit-filter: invert(76%) sepia(62%) saturate(3483%) hue-rotate(359deg) brightness(101%) contrast(107%);
-    filter: invert(76%) sepia(62%) saturate(3483%) hue-rotate(359deg) brightness(101%) contrast(107%); */
-    -webkit-filter: invert(85%) sepia(87%) saturate(2172%) hue-rotate(329deg) brightness(99%) contrast(103%);
-    filter: invert(85%) sepia(87%) saturate(2172%) hue-rotate(329deg) brightness(99%) contrast(103%)
+    -webkit-filter: invert(76%) sepia(62%) saturate(3483%) hue-rotate(359deg) brightness(101%) contrast(107%);
+    filter: invert(76%) sepia(62%) saturate(3483%) hue-rotate(359deg) brightness(101%) contrast(107%);
 }
 
 .dts-header .crc-turquoise {
