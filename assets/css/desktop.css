@@ -35,6 +35,7 @@
     .dts-header {
       /* background: url(../img/blob.png) 50vw center no-repeat, linear-gradient(135deg, #5193f5 0%, #2ebf91 100%); */
       background: #EDF1F2;
+      font-size: 1.25em;
     }
 
     .dts-header .intro {

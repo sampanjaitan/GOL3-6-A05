@@ -26,4 +26,16 @@
     .base {
         width: 360px;
     }
+
+    .dts-header {
+      padding-top: 35vh;
+      font-size: 2em;
+    }
+
+
+    .dts-header .crc-turquoise {
+      bottom: -21%;
+      left: -14%;
+      transform: scale(1.06);
+    }
 }
