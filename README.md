@@ -11,4 +11,4 @@ Tugas kelompok GOL3-6-A05 untuk Digital Talent Scholarship Tahun 2022
 ![Kontributor](assets/img/ricky.png)
 ![](assets/img/saddam.png)
 ![Roso Sasongko](assets/img/roso.png)
-![Samuel Frans Pangihutan Panjaitan](assets/img/sam.png)
+![Samuel Frans Pangihutan Panjaitan](assets/img/samuel.png)
