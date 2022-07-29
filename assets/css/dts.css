@@ -1,0 +1,98 @@
+.dts-header {
+    position: relative;
+    background-color: #EDF1F2;
+    overflow: hidden;
+
+    line-height: 100vh;
+    font-size: 1.25em;
+    color: #3D474D;
+    text-align: center;
+
+    padding-top: 20vh;
+    height: calc(100vh + 70px);
+}
+
+.flex-column {
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-start;
+}
+
+.dts-header .crc {
+    position: absolute;
+}
+
+.dts-header .crc-orange {
+    width: 300px;
+    height: 300px; 
+    -webkit-filter: invert(76%) sepia(62%) saturate(3483%) hue-rotate(359deg) brightness(101%) contrast(107%);
+    filter: invert(76%) sepia(62%) saturate(3483%) hue-rotate(359deg) brightness(101%) contrast(107%);
+}
+
+.dts-header .crc-turquoise {
+    width: 600px;
+    height: 600px; 
+    -webkit-filter: invert(97%) sepia(74%) saturate(5867%) hue-rotate(126deg) brightness(90%) contrast(87%);
+    filter: invert(97%) sepia(74%) saturate(5867%) hue-rotate(126deg) brightness(90%) contrast(87%);
+}
+
+.dts-header .crc-yellow {
+    width: 300px;
+    height: 300px;
+    -webkit-filter: invert(85%) sepia(87%) saturate(2172%) hue-rotate(329deg) brightness(99%) contrast(103%);
+    filter: invert(85%) sepia(87%) saturate(2172%) hue-rotate(329deg) brightness(99%) contrast(103%)
+}
+
+.dts-header .crc-pink {
+    width: 420px;
+    height: 420px;
+    -webkit-filter: invert(56%) sepia(38%) saturate(5438%) hue-rotate(309deg) brightness(100%) contrast(95%);
+    filter: invert(56%) sepia(38%) saturate(5438%) hue-rotate(309deg) brightness(100%) contrast(95%);
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.dts-header  > .container {
+    position: relative;
+    z-index: 2;
+}
+
+.dts-header .intro {
+    float: left;
+    margin: 0 30px;
+    line-height: 1.618em;
+}
+
+.dts-header h1 {
+    margin: 0 0 50px;
+    font-size: 2em;
+}
+  
+.dts-header p {
+    margin: 0 0 50px;
+}
+  
+.dts-header .button {
+    padding: 15px 30px;
+    background: #2ebf91;
+    color: #fff;
+    border-radius: 50px;
+    box-shadow: 0 2px 2px 2px rgba(0, 0, 0, .05);
+}
+  
+.dts-header .button:hover {
+    background: #fbc02d;
+}
+  
+.dts-header .people {
+    display: none;
+    float: right;
+    margin-right: 15px;
+    width: 320px;
+    height: 320px;
+    background: url(../img/landing.svg) center center no-repeat;
+    background-size: contain;
+    animation: shake1 10s infinite;
+}

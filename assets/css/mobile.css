@@ -23,5 +23,27 @@
         margin: 0px;
         margin-right: 12px;
     }
+
+    .dts-header .crc {
+        transform: scale(.5);
+    }
+
+    .dts-header .crc-orange {
+        left: 0;
+    }
+
+    .dts-header .crc-turquoise {
+        left: -45%;
+        bottom: -34%;
+    }
+
+    .dts-header .crc-yellow {
+        bottom: -20%;
+        left: 50%;
+    }
+
+    .dts-header .crc-pink {
+        right: -42%;
+    }
     
 }
